@@ -1,5 +1,5 @@
 # cars_loans
 
-<code>![Диаграмма](cars_loans_er.png "Диаграмма")
+<code>![Диаграмма](cars_loans.png "Диаграмма")
 </code>
 
